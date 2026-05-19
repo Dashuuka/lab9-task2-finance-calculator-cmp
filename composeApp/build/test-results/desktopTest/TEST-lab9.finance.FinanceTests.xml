@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab9.finance.FinanceTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-05-19T15:50:23.591Z" hostname="DESKTOP-MFH1J99" time="0.02">
+  <properties/>
+  <testcase name="rejectsNegativeAmount[desktop]" classname="lab9.finance.FinanceTests" time="0.018"/>
+  <testcase name="compoundFormulaQuarterly[desktop]" classname="lab9.finance.FinanceTests" time="0.0"/>
+  <testcase name="compoundFormulaYearly[desktop]" classname="lab9.finance.FinanceTests" time="0.0"/>
+  <testcase name="rejectsEmptyInput[desktop]" classname="lab9.finance.FinanceTests" time="0.0"/>
+  <testcase name="storesAndClearsHistory[desktop]" classname="lab9.finance.FinanceTests" time="0.001"/>
+  <testcase name="compoundFormulaMonthly[desktop]" classname="lab9.finance.FinanceTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

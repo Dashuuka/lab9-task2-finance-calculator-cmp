@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab9.finance.FinanceUnitTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-05-19T15:50:23.624Z" hostname="DESKTOP-MFH1J99" time="0.003">
+  <properties/>
+  <testcase name="monthlyCompoundFormulaMatchesExpectedValue[desktop]" classname="lab9.finance.FinanceUnitTests" time="0.0"/>
+  <testcase name="yearlyCompoundFormulaMatchesExpectedValue[desktop]" classname="lab9.finance.FinanceUnitTests" time="0.001"/>
+  <testcase name="negativePrincipalIsRejected[desktop]" classname="lab9.finance.FinanceUnitTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
