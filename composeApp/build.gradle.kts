@@ -22,7 +22,11 @@ kotlin {
         }
     }
     wasmJs {
-        browser()
+        browser {
+            commonWebpackConfig {
+                outputFileName = "composeApp.js"
+            }
+        }
         binaries.executable()
     }
 
